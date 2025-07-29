@@ -1,0 +1,14 @@
+# Ignore ~bromium folders and their contents
+**/~bromium
+**/*.bromium
+
+# Ignore renv library and cache (already managed by renv)
+renv/
+renv/library/
+renv/cache/
+
+# Ignore temporary files
+**/*.log
+**/*.tmp
+**/*.bak
+

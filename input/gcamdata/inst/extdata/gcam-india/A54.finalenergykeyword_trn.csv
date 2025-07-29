@@ -1,0 +1,7 @@
+# File: A54.finalenergykeyword_trn.csv
+# Title: Final energy keyword transportation
+# Units: na
+# Column types: cccc
+# ----------
+region,supplysector,final.energy,sce
+India,trn_pass_road_LDV_2W,transportation,CORE

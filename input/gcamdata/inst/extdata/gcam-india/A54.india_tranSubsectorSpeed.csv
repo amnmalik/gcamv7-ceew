@@ -1,0 +1,270 @@
+# File: A54.india_tranSubsectorSpeed.csv
+# Title: Transport subsector speed
+# Units: kmph
+# Column types: cccin
+# ----------
+region,supplysector,tranSubsector,year,speed
+India,trn_freight,Freight Rail,1975,1
+India,trn_freight,Freight Rail,1990,1
+India,trn_freight,Freight Rail,2005,1
+India,trn_freight,Freight Rail,2010,1
+India,trn_freight,Freight Rail,2015,1
+India,trn_freight,Freight Rail,2020,1
+India,trn_freight,Freight Rail,2025,1
+India,trn_freight,Freight Rail,2030,1
+India,trn_freight,Freight Rail,2035,1
+India,trn_freight,Freight Rail,2040,1
+India,trn_freight,Freight Rail,2045,1
+India,trn_freight,Freight Rail,2050,1
+India,trn_freight,Freight Rail,2055,1
+India,trn_freight,Freight Rail,2060,1
+India,trn_freight,Freight Rail,2065,1
+India,trn_freight,Freight Rail,2070,1
+India,trn_freight,Freight Rail,2075,1
+India,trn_freight,Freight Rail,2080,1
+India,trn_freight,Freight Rail,2085,1
+India,trn_freight,Freight Rail,2090,1
+India,trn_freight,Freight Rail,2095,1
+India,trn_freight,Freight Rail,2100,1
+India,trn_pass,HSR,1975,170
+India,trn_pass,HSR,1990,170
+India,trn_pass,HSR,2005,170
+India,trn_pass,HSR,2010,170
+India,trn_pass,HSR,2015,170
+India,trn_pass,HSR,2020,170
+India,trn_pass,HSR,2025,170
+India,trn_pass,HSR,2030,170
+India,trn_pass,HSR,2035,170
+India,trn_pass,HSR,2040,170
+India,trn_pass,HSR,2045,170
+India,trn_pass,HSR,2050,170
+India,trn_pass,HSR,2055,170
+India,trn_pass,HSR,2060,170
+India,trn_pass,HSR,2065,170
+India,trn_pass,HSR,2070,170
+India,trn_pass,HSR,2075,170
+India,trn_pass,HSR,2080,170
+India,trn_pass,HSR,2085,170
+India,trn_pass,HSR,2090,170
+India,trn_pass,HSR,2095,170
+India,trn_pass,HSR,2100,170
+India,trn_pass,Passenger Rail,1975,42
+India,trn_pass,Passenger Rail,1990,42
+India,trn_pass,Passenger Rail,2005,42
+India,trn_pass,Passenger Rail,2010,42
+India,trn_pass,Passenger Rail,2015,42
+India,trn_pass,Passenger Rail,2020,42
+India,trn_pass,Passenger Rail,2025,42
+India,trn_pass,Passenger Rail,2030,42
+India,trn_pass,Passenger Rail,2035,42
+India,trn_pass,Passenger Rail,2040,42
+India,trn_pass,Passenger Rail,2045,42
+India,trn_pass,Passenger Rail,2050,42
+India,trn_pass,Passenger Rail,2055,42
+India,trn_pass,Passenger Rail,2060,42
+India,trn_pass,Passenger Rail,2065,42
+India,trn_pass,Passenger Rail,2070,42
+India,trn_pass,Passenger Rail,2075,42
+India,trn_pass,Passenger Rail,2080,42
+India,trn_pass,Passenger Rail,2085,42
+India,trn_pass,Passenger Rail,2090,42
+India,trn_pass,Passenger Rail,2095,42
+India,trn_pass,Passenger Rail,2100,42
+India,trn_freight,Domestic Ship,1975,1
+India,trn_freight,Domestic Ship,1990,1
+India,trn_freight,Domestic Ship,2005,1
+India,trn_freight,Domestic Ship,2010,1
+India,trn_freight,Domestic Ship,2015,1
+India,trn_freight,Domestic Ship,2020,1
+India,trn_freight,Domestic Ship,2025,1
+India,trn_freight,Domestic Ship,2030,1
+India,trn_freight,Domestic Ship,2035,1
+India,trn_freight,Domestic Ship,2040,1
+India,trn_freight,Domestic Ship,2045,1
+India,trn_freight,Domestic Ship,2050,1
+India,trn_freight,Domestic Ship,2055,1
+India,trn_freight,Domestic Ship,2060,1
+India,trn_freight,Domestic Ship,2065,1
+India,trn_freight,Domestic Ship,2070,1
+India,trn_freight,Domestic Ship,2075,1
+India,trn_freight,Domestic Ship,2080,1
+India,trn_freight,Domestic Ship,2085,1
+India,trn_freight,Domestic Ship,2090,1
+India,trn_freight,Domestic Ship,2095,1
+India,trn_freight,Domestic Ship,2100,1
+India,trn_shipping_intl,International Ship,1975,1
+India,trn_shipping_intl,International Ship,1990,1
+India,trn_shipping_intl,International Ship,2005,1
+India,trn_shipping_intl,International Ship,2010,1
+India,trn_shipping_intl,International Ship,2015,1
+India,trn_shipping_intl,International Ship,2020,1
+India,trn_shipping_intl,International Ship,2025,1
+India,trn_shipping_intl,International Ship,2030,1
+India,trn_shipping_intl,International Ship,2035,1
+India,trn_shipping_intl,International Ship,2040,1
+India,trn_shipping_intl,International Ship,2045,1
+India,trn_shipping_intl,International Ship,2050,1
+India,trn_shipping_intl,International Ship,2055,1
+India,trn_shipping_intl,International Ship,2060,1
+India,trn_shipping_intl,International Ship,2065,1
+India,trn_shipping_intl,International Ship,2070,1
+India,trn_shipping_intl,International Ship,2075,1
+India,trn_shipping_intl,International Ship,2080,1
+India,trn_shipping_intl,International Ship,2085,1
+India,trn_shipping_intl,International Ship,2090,1
+India,trn_shipping_intl,International Ship,2095,1
+India,trn_shipping_intl,International Ship,2100,1
+India,trn_pass,Domestic Aviation,1975,197
+India,trn_pass,Domestic Aviation,1990,197
+India,trn_pass,Domestic Aviation,2005,197
+India,trn_pass,Domestic Aviation,2010,197
+India,trn_pass,Domestic Aviation,2015,197
+India,trn_pass,Domestic Aviation,2020,197
+India,trn_pass,Domestic Aviation,2025,197
+India,trn_pass,Domestic Aviation,2030,197
+India,trn_pass,Domestic Aviation,2035,197
+India,trn_pass,Domestic Aviation,2040,197
+India,trn_pass,Domestic Aviation,2045,197
+India,trn_pass,Domestic Aviation,2050,197
+India,trn_pass,Domestic Aviation,2055,197
+India,trn_pass,Domestic Aviation,2060,197
+India,trn_pass,Domestic Aviation,2065,197
+India,trn_pass,Domestic Aviation,2070,197
+India,trn_pass,Domestic Aviation,2075,197
+India,trn_pass,Domestic Aviation,2080,197
+India,trn_pass,Domestic Aviation,2085,197
+India,trn_pass,Domestic Aviation,2090,197
+India,trn_pass,Domestic Aviation,2095,197
+India,trn_pass,Domestic Aviation,2100,197
+India,trn_aviation_intl,International Aviation,1975,337
+India,trn_aviation_intl,International Aviation,1990,337
+India,trn_aviation_intl,International Aviation,2005,337
+India,trn_aviation_intl,International Aviation,2010,337
+India,trn_aviation_intl,International Aviation,2015,337
+India,trn_aviation_intl,International Aviation,2020,337
+India,trn_aviation_intl,International Aviation,2025,337
+India,trn_aviation_intl,International Aviation,2030,337
+India,trn_aviation_intl,International Aviation,2035,337
+India,trn_aviation_intl,International Aviation,2040,337
+India,trn_aviation_intl,International Aviation,2045,337
+India,trn_aviation_intl,International Aviation,2050,337
+India,trn_aviation_intl,International Aviation,2055,337
+India,trn_aviation_intl,International Aviation,2060,337
+India,trn_aviation_intl,International Aviation,2065,337
+India,trn_aviation_intl,International Aviation,2070,337
+India,trn_aviation_intl,International Aviation,2075,337
+India,trn_aviation_intl,International Aviation,2080,337
+India,trn_aviation_intl,International Aviation,2085,337
+India,trn_aviation_intl,International Aviation,2090,337
+India,trn_aviation_intl,International Aviation,2095,337
+India,trn_aviation_intl,International Aviation,2100,337
+India,trn_pass_road,Bus,1975,21
+India,trn_pass_road,Bus,1990,21
+India,trn_pass_road,Bus,2005,21
+India,trn_pass_road,Bus,2010,21.3
+India,trn_pass_road,Bus,2015,21.7
+India,trn_pass_road,Bus,2020,22
+India,trn_pass_road,Bus,2025,22.3
+India,trn_pass_road,Bus,2030,22.7
+India,trn_pass_road,Bus,2035,23
+India,trn_pass_road,Bus,2040,23.3
+India,trn_pass_road,Bus,2045,23.7
+India,trn_pass_road,Bus,2050,24
+India,trn_pass_road,Bus,2055,24.3
+India,trn_pass_road,Bus,2060,24.7
+India,trn_pass_road,Bus,2065,25
+India,trn_pass_road,Bus,2070,25
+India,trn_pass_road,Bus,2075,25
+India,trn_pass_road,Bus,2080,25
+India,trn_pass_road,Bus,2085,25
+India,trn_pass_road,Bus,2090,25
+India,trn_pass_road,Bus,2095,25
+India,trn_pass_road,Bus,2100,25
+India,trn_pass_road_LDV_2W,2W,1975,30.9
+India,trn_pass_road_LDV_2W,2W,1990,30.9
+India,trn_pass_road_LDV_2W,2W,2005,30.9
+India,trn_pass_road_LDV_2W,2W,2010,30.9
+India,trn_pass_road_LDV_2W,2W,2015,30.9
+India,trn_pass_road_LDV_2W,2W,2020,30.9
+India,trn_pass_road_LDV_2W,2W,2025,30.9
+India,trn_pass_road_LDV_2W,2W,2030,30.9
+India,trn_pass_road_LDV_2W,2W,2035,30.9
+India,trn_pass_road_LDV_2W,2W,2040,30.9
+India,trn_pass_road_LDV_2W,2W,2045,30.9
+India,trn_pass_road_LDV_2W,2W,2050,30.9
+India,trn_pass_road_LDV_2W,2W,2055,30.9
+India,trn_pass_road_LDV_2W,2W,2060,30.9
+India,trn_pass_road_LDV_2W,2W,2065,30.9
+India,trn_pass_road_LDV_2W,2W,2070,30.9
+India,trn_pass_road_LDV_2W,2W,2075,30.9
+India,trn_pass_road_LDV_2W,2W,2080,30.9
+India,trn_pass_road_LDV_2W,2W,2085,30.9
+India,trn_pass_road_LDV_2W,2W,2090,30.9
+India,trn_pass_road_LDV_2W,2W,2095,30.9
+India,trn_pass_road_LDV_2W,2W,2100,30.9
+India,trn_pass_road_LDV_4W,LDV_4W,1975,36
+India,trn_pass_road_LDV_4W,LDV_4W,1990,36
+India,trn_pass_road_LDV_4W,LDV_4W,2005,36
+India,trn_pass_road_LDV_4W,LDV_4W,2010,36.7
+India,trn_pass_road_LDV_4W,LDV_4W,2015,37.3
+India,trn_pass_road_LDV_4W,LDV_4W,2020,38
+India,trn_pass_road_LDV_4W,LDV_4W,2025,39
+India,trn_pass_road_LDV_4W,LDV_4W,2030,40
+India,trn_pass_road_LDV_4W,LDV_4W,2035,41
+India,trn_pass_road_LDV_4W,LDV_4W,2040,41.7
+India,trn_pass_road_LDV_4W,LDV_4W,2045,42.3
+India,trn_pass_road_LDV_4W,LDV_4W,2050,43
+India,trn_pass_road_LDV_4W,LDV_4W,2055,43.3
+India,trn_pass_road_LDV_4W,LDV_4W,2060,43.7
+India,trn_pass_road_LDV_4W,LDV_4W,2065,44
+India,trn_pass_road_LDV_4W,LDV_4W,2070,44
+India,trn_pass_road_LDV_4W,LDV_4W,2075,44
+India,trn_pass_road_LDV_4W,LDV_4W,2080,44
+India,trn_pass_road_LDV_4W,LDV_4W,2085,44.3
+India,trn_pass_road_LDV_4W,LDV_4W,2090,44.7
+India,trn_pass_road_LDV_4W,LDV_4W,2095,45
+India,trn_pass_road_LDV_4W,LDV_4W,2100,45
+India,trn_freight_road,Truck,1975,1
+India,trn_freight_road,Truck,1990,1
+India,trn_freight_road,Truck,2005,1
+India,trn_freight_road,Truck,2010,1
+India,trn_freight_road,Truck,2015,1
+India,trn_freight_road,Truck,2020,1
+India,trn_freight_road,Truck,2025,1
+India,trn_freight_road,Truck,2030,1
+India,trn_freight_road,Truck,2035,1
+India,trn_freight_road,Truck,2040,1
+India,trn_freight_road,Truck,2045,1
+India,trn_freight_road,Truck,2050,1
+India,trn_freight_road,Truck,2055,1
+India,trn_freight_road,Truck,2060,1
+India,trn_freight_road,Truck,2065,1
+India,trn_freight_road,Truck,2070,1
+India,trn_freight_road,Truck,2075,1
+India,trn_freight_road,Truck,2080,1
+India,trn_freight_road,Truck,2085,1
+India,trn_freight_road,Truck,2090,1
+India,trn_freight_road,Truck,2095,1
+India,trn_freight_road,Truck,2100,1
+India,trn_pass_road_LDV,3W,1975,30.9
+India,trn_pass_road_LDV,3W,1990,30.9
+India,trn_pass_road_LDV,3W,2005,30.9
+India,trn_pass_road_LDV,3W,2010,30.9
+India,trn_pass_road_LDV,3W,2015,30.9
+India,trn_pass_road_LDV,3W,2020,30.9
+India,trn_pass_road_LDV,3W,2025,30.9
+India,trn_pass_road_LDV,3W,2030,30.9
+India,trn_pass_road_LDV,3W,2035,30.9
+India,trn_pass_road_LDV,3W,2040,30.9
+India,trn_pass_road_LDV,3W,2045,30.9
+India,trn_pass_road_LDV,3W,2050,30.9
+India,trn_pass_road_LDV,3W,2055,30.9
+India,trn_pass_road_LDV,3W,2060,30.9
+India,trn_pass_road_LDV,3W,2065,30.9
+India,trn_pass_road_LDV,3W,2070,30.9
+India,trn_pass_road_LDV,3W,2075,30.9
+India,trn_pass_road_LDV,3W,2080,30.9
+India,trn_pass_road_LDV,3W,2085,30.9
+India,trn_pass_road_LDV,3W,2090,30.9
+India,trn_pass_road_LDV,3W,2095,30.9
+India,trn_pass_road_LDV,3W,2100,30.9

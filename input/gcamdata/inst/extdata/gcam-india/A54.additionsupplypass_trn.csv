@@ -1,0 +1,7 @@
+# File: A54.additionsupplypass_trn.csv
+# Title: Addition in Transportation sector default supplysector information for two wheeler (units and logit exponents)
+# Units: Unitless
+# Column types: ccccciicc
+# ----------
+region,supplysector,output.unit,input.unit,price.unit,logit.year.fillout,logit.exponent,logit.type,sce
+India,trn_pass_road_LDV_2W,million pass-km,EJ,1990$/pass-km,1975,-6,absolute-cost-logit,CORE

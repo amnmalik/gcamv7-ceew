@@ -1,0 +1,23 @@
+# File: trnUCD_EIA_mapping.csv
+# Title: Mapping EIA sector and fuel codes to UCD mode and fuel
+# Units: NA
+# Column types: cccc
+# ----------
+mode,fuel,EIA_sector,EIA_fuel
+Domestic Aviation,refined liquids,AC,JF
+International Aviation,refined liquids,AC,JF
+Bus,gas,AC,NG
+Bus,refined liquids,AC,DF
+HSR,electricity,AC,ES
+LDV_2W,electricity,AC,ES
+LDV_2W,refined liquids,AC,MG
+LDV_4W,electricity,AC,ES
+LDV_4W,gas,AC,MG
+LDV_4W,hydrogen,AC,MG
+LDV_4W,refined liquids,AC,MG
+Rail,coal,AC,DF
+Rail,electricity,AC,ES
+Rail,refined liquids,AC,DF
+Domestic Ship,refined liquids,AC,RF
+International Ship,refined liquids,AC,RF
+Truck,refined liquids,AC,DF

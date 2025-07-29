@@ -1,0 +1,8 @@
+# File: India_BaseGDP.csv
+# Title: India Base GDP
+# Units: USD Million 1990
+# Source: Currently taken from the core data system of the model
+# Column types: cn
+# ----------
+region,baseGDP
+India,106889

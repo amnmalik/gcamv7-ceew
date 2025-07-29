@@ -1,0 +1,1 @@
+LTSIndiaGDP, world/+{name}region, nationalAccountContainer/+{year}nationalAccount, nationalAccount/+GDP, scenario, scenario/world, region/nationalAccountContainer

@@ -1,0 +1,122 @@
+<scenario>
+    <world>
+        <region name="India">
+			<supplysector name="elect_td_bld">
+                <subsector name="rooftop_pv">
+                    <stub-technology name="rooftop_pv">
+                        <period year="1975">
+                            <minicam-non-energy-input name="capital">
+                                <input-cost>16.3220547185154</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="1990">
+                            <minicam-non-energy-input name="capital">
+                                <input-cost>16.3220547185154</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2005">
+                            <minicam-non-energy-input name="capital">
+                                <input-cost>16.3220547185154</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2010">
+                            <minicam-non-energy-input name="capital">
+                                <input-cost>16.3220547185154</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2015">
+                            <minicam-non-energy-input name="capital">
+                                <input-cost>16.3220547185154</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2020">
+                            <minicam-non-energy-input name="capital">
+                                <input-cost>10.7758717670716</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2025">
+                            <minicam-non-energy-input name="capital">
+                                <input-cost>9.00507</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2030">
+                            <minicam-non-energy-input name="capital">
+                                <input-cost>8.73908</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2035">
+                            <minicam-non-energy-input name="capital">
+                                <input-cost>8.51329</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2040">
+                            <minicam-non-energy-input name="capital">
+                                <input-cost>8.23233</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="capital">
+                                <input-cost>8.01876</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="capital">
+                                <input-cost>7.7751</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2055">
+                            <minicam-non-energy-input name="capital">
+                                <input-cost>7.52986</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2060">
+                            <minicam-non-energy-input name="capital">
+                                <input-cost>7.28461</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2065">
+                            <minicam-non-energy-input name="capital">
+                                <input-cost>7.03936</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2070">
+                            <minicam-non-energy-input name="capital">
+                                <input-cost>6.79411</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2075">
+                            <minicam-non-energy-input name="capital">
+                                <input-cost>6.54886</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2080">
+                            <minicam-non-energy-input name="capital">
+                                <input-cost>6.30361</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2085">
+                            <minicam-non-energy-input name="capital">
+                                <input-cost>6.05836</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2090">
+                            <minicam-non-energy-input name="capital">
+                                <input-cost>5.81311</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2095">
+                            <minicam-non-energy-input name="capital">
+                                <input-cost>5.56786</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2100">
+                            <minicam-non-energy-input name="capital">
+                                <input-cost>5.32261</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </stub-technology>
+                </subsector>
+            </supplysector>
+        </region>
+    </world>
+</scenario>

@@ -203,27 +203,7 @@
                             <interpolation-function name="fixed"/>
                         </interpolation-rule>
 					</subsector>
-				<subsector name="gas">
-				   <interpolation-rule apply-to="share-weight"                          
-                            from-year="2015" to-year="2060">
-                            <from-value>0.01</from-value>
-                            <to-value>1</to-value>
-                            <interpolation-function name="linear"/>
-                        </interpolation-rule>
-	  					 <interpolation-rule apply-to="share-weight"                          
-                            from-year="2055" to-year="2100">
-                            <from-value>1</from-value>
-                            <to-value>2</to-value>
-                            <interpolation-function name="linear"/>
-                        </interpolation-rule>
-					 <interpolation-rule apply-to="share-weight"                          
-                            from-year="2095" to-year="2100">
-                            <from-value>2</from-value>
-                            <to-value>2</to-value>
-                            <interpolation-function name="fixed"/>
-                        </interpolation-rule>
-					</subsector>
-			<subsector name="refined liquids">
+							<subsector name="refined liquids">
 				   <interpolation-rule apply-to="share-weight"                          
                             from-year="2015" to-year="2100">
                             <from-value>1.467</from-value>
